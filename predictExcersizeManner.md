@@ -1,1967 +1,1 @@
-<html xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
-xmlns="http://www.w3.org/TR/REC-html40">
-
-<head>
-<meta name=Title content="">
-<meta name=Keywords content="">
-<meta http-equiv=Content-Type content="text/html; charset=macintosh">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 14">
-<meta name=Originator content="Microsoft Word 14">
-<link rel=File-List href="predictExcersizeManner_files/filelist.xml">
-<!--[if gte mso 9]><xml>
- <o:DocumentProperties>
-  <o:Author>Li, Cindy</o:Author>
-  <o:LastAuthor>Li, Cindy</o:LastAuthor>
-  <o:Revision>18</o:Revision>
-  <o:TotalTime>84</o:TotalTime>
-  <o:Created>2014-09-20T17:32:00Z</o:Created>
-  <o:LastSaved>2014-09-21T22:15:00Z</o:LastSaved>
-  <o:Pages>3</o:Pages>
-  <o:Words>1041</o:Words>
-  <o:Characters>5937</o:Characters>
-  <o:Company>ebay</o:Company>
-  <o:Lines>49</o:Lines>
-  <o:Paragraphs>13</o:Paragraphs>
-  <o:CharactersWithSpaces>6965</o:CharactersWithSpaces>
-  <o:Version>14.0</o:Version>
- </o:DocumentProperties>
- <o:OfficeDocumentSettings>
-  <o:AllowPNG/>
- </o:OfficeDocumentSettings>
-</xml><![endif]-->
-<link rel=themeData href="predictExcersizeManner_files/themedata.xml">
-<!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
-  <w:TrackMoves/>
-  <w:TrackFormatting/>
-  <w:PunctuationKerning/>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>EN-US</w:LidThemeOther>
-  <w:LidThemeAsian>JA</w:LidThemeAsian>
-  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:SplitPgBreakAndParaMark/>
-   <w:EnableOpenTypeKerning/>
-   <w:DontFlipMirrorIndents/>
-   <w:OverrideTableStyleHps/>
-   <w:UseFELayout/>
-  </w:Compatibility>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac m:val="off"/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
-  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="276">
-  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
-  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Table Grid"/>
-  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
- </w:LatentStyles>
-</xml><![endif]-->
-<style>
-<!--
- /* Font Definitions */
-@font-face
-	{font-family:Arial;
-	panose-1:2 11 6 4 2 2 2 2 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:-536859905 -1073711037 9 0 511 0;}
-@font-face
-	{font-family:"\FF2D\FF33 \660E\671D";
-	mso-font-charset:78;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
-@font-face
-	{font-family:"\FF2D\FF33 \30B4\30B7\30C3\30AF";
-	mso-font-charset:78;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
-@font-face
-	{font-family:"\FF2D\FF33 \30B4\30B7\30C3\30AF";
-	mso-font-charset:78;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
-@font-face
-	{font-family:Calibri;
-	panose-1:2 15 5 2 2 2 4 3 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:-520092929 1073786111 9 0 415 0;}
-@font-face
-	{font-family:Cambria;
-	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:-536870145 1073743103 0 0 415 0;}
-@font-face
-	{font-family:"Helvetica Neue";
-	panose-1:2 0 5 3 0 0 0 2 0 4;
-	mso-font-charset:0;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:-452984065 1342208475 16 0 1 0;}
- /* Style Definitions */
-p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-parent:"";
-	margin:0in;
-	margin-bottom:.0001pt;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:Cambria;
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:"\FF2D\FF33 \660E\671D";
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;}
-h1
-	{mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"Heading 1 Char";
-	mso-style-next:Normal;
-	margin-top:24.0pt;
-	margin-right:0in;
-	margin-bottom:0in;
-	margin-left:0in;
-	margin-bottom:.0001pt;
-	mso-pagination:widow-orphan lines-together;
-	page-break-after:avoid;
-	mso-outline-level:1;
-	font-size:16.0pt;
-	font-family:Calibri;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:"\FF2D\FF33 \30B4\30B7\30C3\30AF";
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#345A8A;
-	mso-themecolor:accent1;
-	mso-themeshade:181;
-	mso-font-kerning:0pt;}
-h2
-	{mso-style-priority:9;
-	mso-style-qformat:yes;
-	mso-style-link:"Heading 2 Char";
-	mso-style-next:Normal;
-	margin-top:10.0pt;
-	margin-right:0in;
-	margin-bottom:0in;
-	margin-left:0in;
-	margin-bottom:.0001pt;
-	mso-pagination:widow-orphan lines-together;
-	page-break-after:avoid;
-	mso-outline-level:2;
-	font-size:13.0pt;
-	font-family:Calibri;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:"\FF2D\FF33 \30B4\30B7\30C3\30AF";
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#4F81BD;
-	mso-themecolor:accent1;}
-p.MsoTitle, li.MsoTitle, div.MsoTitle
-	{mso-style-priority:10;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"Title Char";
-	mso-style-next:Normal;
-	margin-top:0in;
-	margin-right:0in;
-	margin-bottom:15.0pt;
-	margin-left:0in;
-	mso-add-space:auto;
-	mso-pagination:widow-orphan;
-	border:none;
-	mso-border-bottom-alt:solid #4F81BD 1.0pt;
-	mso-border-bottom-themecolor:accent1;
-	padding:0in;
-	mso-padding-alt:0in 0in 4.0pt 0in;
-	font-size:26.0pt;
-	font-family:Calibri;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:"\FF2D\FF33 \30B4\30B7\30C3\30AF";
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#17365D;
-	mso-themecolor:text2;
-	mso-themeshade:191;
-	letter-spacing:.25pt;
-	mso-font-kerning:14.0pt;}
-p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
-	{mso-style-priority:10;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"Title Char";
-	mso-style-next:Normal;
-	mso-style-type:export-only;
-	margin:0in;
-	margin-bottom:.0001pt;
-	mso-add-space:auto;
-	mso-pagination:widow-orphan;
-	border:none;
-	mso-border-bottom-alt:solid #4F81BD 1.0pt;
-	mso-border-bottom-themecolor:accent1;
-	padding:0in;
-	mso-padding-alt:0in 0in 4.0pt 0in;
-	font-size:26.0pt;
-	font-family:Calibri;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:"\FF2D\FF33 \30B4\30B7\30C3\30AF";
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#17365D;
-	mso-themecolor:text2;
-	mso-themeshade:191;
-	letter-spacing:.25pt;
-	mso-font-kerning:14.0pt;}
-p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
-	{mso-style-priority:10;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"Title Char";
-	mso-style-next:Normal;
-	mso-style-type:export-only;
-	margin:0in;
-	margin-bottom:.0001pt;
-	mso-add-space:auto;
-	mso-pagination:widow-orphan;
-	border:none;
-	mso-border-bottom-alt:solid #4F81BD 1.0pt;
-	mso-border-bottom-themecolor:accent1;
-	padding:0in;
-	mso-padding-alt:0in 0in 4.0pt 0in;
-	font-size:26.0pt;
-	font-family:Calibri;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:"\FF2D\FF33 \30B4\30B7\30C3\30AF";
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#17365D;
-	mso-themecolor:text2;
-	mso-themeshade:191;
-	letter-spacing:.25pt;
-	mso-font-kerning:14.0pt;}
-p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
-	{mso-style-priority:10;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"Title Char";
-	mso-style-next:Normal;
-	mso-style-type:export-only;
-	margin-top:0in;
-	margin-right:0in;
-	margin-bottom:15.0pt;
-	margin-left:0in;
-	mso-add-space:auto;
-	mso-pagination:widow-orphan;
-	border:none;
-	mso-border-bottom-alt:solid #4F81BD 1.0pt;
-	mso-border-bottom-themecolor:accent1;
-	padding:0in;
-	mso-padding-alt:0in 0in 4.0pt 0in;
-	font-size:26.0pt;
-	font-family:Calibri;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:"\FF2D\FF33 \30B4\30B7\30C3\30AF";
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#17365D;
-	mso-themecolor:text2;
-	mso-themeshade:191;
-	letter-spacing:.25pt;
-	mso-font-kerning:14.0pt;}
-a:link, span.MsoHyperlink
-	{mso-style-priority:99;
-	color:blue;
-	mso-themecolor:hyperlink;
-	text-decoration:underline;
-	text-underline:single;}
-a:visited, span.MsoHyperlinkFollowed
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	color:purple;
-	mso-themecolor:followedhyperlink;
-	text-decoration:underline;
-	text-underline:single;}
-p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	margin-top:0in;
-	margin-right:0in;
-	margin-bottom:0in;
-	margin-left:.5in;
-	margin-bottom:.0001pt;
-	mso-add-space:auto;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:Cambria;
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:"\FF2D\FF33 \660E\671D";
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;}
-p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-type:export-only;
-	margin-top:0in;
-	margin-right:0in;
-	margin-bottom:0in;
-	margin-left:.5in;
-	margin-bottom:.0001pt;
-	mso-add-space:auto;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:Cambria;
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:"\FF2D\FF33 \660E\671D";
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;}
-p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-type:export-only;
-	margin-top:0in;
-	margin-right:0in;
-	margin-bottom:0in;
-	margin-left:.5in;
-	margin-bottom:.0001pt;
-	mso-add-space:auto;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:Cambria;
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:"\FF2D\FF33 \660E\671D";
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;}
-p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-type:export-only;
-	margin-top:0in;
-	margin-right:0in;
-	margin-bottom:0in;
-	margin-left:.5in;
-	margin-bottom:.0001pt;
-	mso-add-space:auto;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:Cambria;
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:"\FF2D\FF33 \660E\671D";
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;}
-span.TitleChar
-	{mso-style-name:"Title Char";
-	mso-style-priority:10;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:Title;
-	mso-ansi-font-size:26.0pt;
-	mso-bidi-font-size:26.0pt;
-	font-family:Calibri;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:"\FF2D\FF33 \30B4\30B7\30C3\30AF";
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#17365D;
-	mso-themecolor:text2;
-	mso-themeshade:191;
-	letter-spacing:.25pt;
-	mso-font-kerning:14.0pt;}
-span.Heading2Char
-	{mso-style-name:"Heading 2 Char";
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"Heading 2";
-	mso-ansi-font-size:13.0pt;
-	mso-bidi-font-size:13.0pt;
-	font-family:Calibri;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:"\FF2D\FF33 \30B4\30B7\30C3\30AF";
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#4F81BD;
-	mso-themecolor:accent1;
-	font-weight:bold;}
-span.Heading1Char
-	{mso-style-name:"Heading 1 Char";
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"Heading 1";
-	mso-ansi-font-size:16.0pt;
-	mso-bidi-font-size:16.0pt;
-	font-family:Calibri;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:"\FF2D\FF33 \30B4\30B7\30C3\30AF";
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#345A8A;
-	mso-themecolor:accent1;
-	mso-themeshade:181;
-	font-weight:bold;}
-span.apple-converted-space
-	{mso-style-name:apple-converted-space;
-	mso-style-unhide:no;}
-span.SpellE
-	{mso-style-name:"";
-	mso-spl-e:yes;}
-span.GramE
-	{mso-style-name:"";
-	mso-gram-e:yes;}
-.MsoChpDefault
-	{mso-style-type:export-only;
-	mso-default-props:yes;
-	font-family:Cambria;
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:"\FF2D\FF33 \660E\671D";
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;}
-@page WordSection1
-	{size:8.5in 11.0in;
-	margin:1.0in 1.25in 1.0in 1.25in;
-	mso-header-margin:.5in;
-	mso-footer-margin:.5in;
-	mso-paper-source:0;}
-div.WordSection1
-	{page:WordSection1;}
--->
-</style>
-<!--[if gte mso 10]>
-<style>
- /* Style Definitions */
-table.MsoNormalTable
-	{mso-style-name:"Table Normal";
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-parent:"";
-	mso-padding-alt:0in 5.4pt 0in 5.4pt;
-	mso-para-margin:0in;
-	mso-para-margin-bottom:.0001pt;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:Cambria;
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:minor-latin;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:minor-latin;}
-</style>
-<![endif]-->
-</head>
-
-<body bgcolor=white lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
-
-<div class=WordSection1>
-
-<h1>1. Problem analysis</h1>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>This is a classification
-problem. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>Random forest is known to
-produce good accuracy for <span class=SpellE>classication</span> problem. So I
-focus on training with random forest.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<h1>2. Building model</h1>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>First tried to run <span
-class=SpellE>randomForest</span>, which doesn’t take missing data and <span
-class=GramE>can not</span> handle categorical predictors with more than 53
-categories. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>So used the caret package
-with train, but it takes around 2 hours to finish. Too slow, and the fitted
-model can’t be used for <span class=SpellE>newdata</span> which also contains
-missing values.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>&gt;<span class=SpellE><span class=GramE>modFit</span></span>
-&lt;- train(<span class=SpellE>training$classe</span>~., data=training,
-method='<span class=SpellE>rf</span>',<span class=SpellE>prox</span>=TRUE)<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>&gt;<span class=SpellE><span class=GramE>modFit</span></span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>Random Forest <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>19622 samples<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=GramE>159 predictor</span><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;
-</span>5 classes: 'A', 'B', 'C', 'D', '<span class=GramE>E'</span> <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>No pre-processing<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>Resampling: Bootstrapped (25 reps) <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>Summary of sample sizes: 406, 406, 406, 406, 406, <span
-class=GramE>406</span>, ... <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>Resampling results across tuning parameters:<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=SpellE><span class=GramE>mtry</span></span><span
-style="mso-spacerun:yes">&nbsp; </span>Accuracy<span
-style="mso-spacerun:yes">&nbsp; </span>Kappa<span
-style="mso-spacerun:yes">&nbsp; </span>Accuracy SD<span
-style="mso-spacerun:yes">&nbsp; </span>Kappa SD<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span class=GramE>2<span style="mso-spacerun:yes">&nbsp; </span>0.254</span><span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>0.000<span
-style="mso-spacerun:yes">&nbsp; </span>0.04562<span
-style="mso-spacerun:yes">&nbsp; </span><span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;</span>0.00000 <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp;&nbsp; </span><span
-class=GramE>117<span style="mso-spacerun:yes">&nbsp; </span>0.861</span><span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>0.824<span
-style="mso-spacerun:yes">&nbsp; </span>0.04437<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>0.05568 <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=GramE>6952<span style="mso-spacerun:yes">&nbsp; </span>0.992</span><span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>0.990<span
-style="mso-spacerun:yes">&nbsp; </span>0.00788<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>0.00998 <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>Accuracy was used to select the optimal model <span
-class=GramE>using<span style="mso-spacerun:yes">&nbsp; </span>the</span>
-largest value.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>The final value used for the model was <span
-class=SpellE>mtry</span> = 6952.</span><span style='font-size:13.5pt;
-font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>But the test data also contains
-missing data, getting error like this when use the fitted model to predict.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>&gt;<span class=GramE>prediction</span> &lt;- predict(<span
-class=SpellE>modFit$finalModel</span>, <span class=SpellE>newdata</span>=testing,
-na.rm=TRUE, type='response')<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>Error in <span class=SpellE><span class=GramE>predict.randomForest</span></span><span
-class=GramE>(</span><span class=SpellE>modFit$finalModel</span>, <span
-class=SpellE>newdata</span> = testing, na.rm = TRUE,<span
-style="mso-spacerun:yes">&nbsp; </span>: <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=GramE>missing</span> values in <span class=SpellE>newdata</span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>So first we need to clean
-up the data. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<h2>2.1 Clean up data</h2>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>First step is to clean up
-the training data. The given data consists lots of NA or missing values, which
-need to be cleaned up. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>Try removing the NA values
-first. If generating good enough accuracy, which means they are not very necessary
-for prediction, we don’t need to proceed with the imputation method, which may
-not produce better result either. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'># <span class=GramE>delete</span>
-columns with # of NA &gt;=500<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>&gt;<span class=SpellE><span class=GramE>clean.train</span></span>
-&lt;- training[<span class=SpellE>colSums</span>(is.na(training)) &lt; 500]</span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'># <span class=GramE>remove</span>
-irrelevant variables: X, <span class=SpellE>user_name</span>,
-raw_timestram_part_1, raw_timestram_part_2, <span class=SpellE>cvtd_timestamp</span>,<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'># <span class=SpellE><span
-class=GramE>new</span>_window</span>, <span class=SpellE>num_window</span><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>&gt;<span class=SpellE><span class=GramE>clean.train</span></span>
-&lt;- <span class=SpellE>clean.train</span>[,-1:-7]</span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'># <span class=GramE>remove</span>
-near Zero Variables<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>&gt;<span class=SpellE><span class=GramE>clean.train</span></span>
-&lt;- <span class=SpellE>clean.train</span>[,!<span class=SpellE>nearZeroVar</span>(<span
-class=SpellE>clean.train,saveMetrics</span>=T)$<span class=SpellE>nzv</span>]</span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>After the preprocessing
-above, the number of predictors reduced from 160 to 53. <o:p></o:p></span></p>
-
-<h2>2.2 Cross validation</h2>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>First let’s do the cross
-validation for the random forest model. Here I chose the commonly used 10-fold
-cross validation. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span class=GramE><span style='font-size:13.5pt;font-family:
-"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626;
-background:silver;mso-highlight:silver'>subsets</span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'> &lt;- <span
-class=SpellE>createFolds</span>(<span class=SpellE>clean.train$classe</span>, k
-= 10, list = TRUE, <span class=SpellE>returnTrain</span> = FALSE)<o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=SpellE><span class=GramE><span style='font-size:
-13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'>err.vec</span></span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'> &lt;- numeric(0)<o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=GramE><span style='font-size:13.5pt;font-family:
-"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626;
-background:silver;mso-highlight:silver'>fits</span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'> &lt;- list()<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span class=GramE><span style='font-size:13.5pt;font-family:
-"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626;
-background:silver;mso-highlight:silver'>for</span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'> (<span class=SpellE>i</span>
-in 1:10) {<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=GramE>fits</span>[[<span class=SpellE>i</span>]] &lt;- <span
-class=SpellE>randomForest</span>(<span class=SpellE>clean.train$classe</span> ~
-.,data=<span class=SpellE>train,subset</span>=subsets[[<span class=SpellE>i</span>]])<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=GramE>prediction</span> &lt;- predict(fits[[<span class=SpellE>i</span>]],<span
-class=SpellE>newdata</span>=<span class=SpellE>clean.train</span>[-subsets[[<span
-class=SpellE>i</span>]],],type=&quot;class&quot;)<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=SpellE><span class=GramE>cfMatrix</span></span> &lt;- table(<span
-class=SpellE>clean.train$classe</span>[-subsets[[<span class=SpellE>i</span>]]],prediction)<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=GramE>print</span>(<span class=SpellE>cfMatrix</span>)<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=GramE>err</span> &lt;- 1.0 - sum(<span class=SpellE>diag</span>(<span
-class=SpellE>cfMatrix</span>))/sum(<span class=SpellE>cfMatrix</span>)<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=SpellE><span class=GramE>err.vec</span></span> &lt;- <span class=SpellE>rbind</span>(<span
-class=SpellE>err.vec,err</span>)<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>}<o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=SpellE><span class=GramE><span style='font-size:
-13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'>err.vec</span></span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=GramE><span style='font-size:13.5pt;font-family:
-"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626;
-background:silver;mso-highlight:silver'>mean</span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'>(<span class=SpellE>err.vec</span>)</span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span class=GramE><span style='font-size:13.5pt;font-family:
-"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626;
-background:silver;mso-highlight:silver'>prediction</span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>A<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>B<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>E<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>A 4887<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>32<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>25<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>59<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>19<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=GramE>B<span style="mso-spacerun:yes">&nbsp; </span>214</span> 3066<span
-style="mso-spacerun:yes">&nbsp; </span>134<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>1<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>2<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span><span class=GramE>0<span
-style="mso-spacerun:yes">&nbsp; </span>154</span> 2858<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>65<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>3<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>D <span
-style="mso-spacerun:yes">&nbsp;&nbsp;</span>11<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span><span class=GramE>2<span
-style="mso-spacerun:yes">&nbsp; </span>110</span> 2756<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>15<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>E<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>7<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>9<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>23<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>19 3189<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp;&nbsp; </span><span
-class=GramE>prediction</span><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>A<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>B<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>E<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>A 4990<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>19<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>1<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>4<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>8<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=GramE>B<span style="mso-spacerun:yes">&nbsp; </span>168</span> 3069<span
-style="mso-spacerun:yes">&nbsp; </span>175<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>3<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>2<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span><span class=GramE>2<span
-style="mso-spacerun:yes">&nbsp; </span>101</span> 2943<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>32<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>2<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>6<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span><span class=GramE>2<span
-style="mso-spacerun:yes">&nbsp; </span>167</span> 2707<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>12<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>E<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>4<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>14<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>35<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>25 3168<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp;&nbsp; </span><span
-class=GramE>prediction</span><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>A<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>B<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>E<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>A 4954<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>22<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>13<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>28<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>5<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=GramE>B<span style="mso-spacerun:yes">&nbsp; </span>191</span> 3114<span
-style="mso-spacerun:yes">&nbsp; </span>104<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>7<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>1<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>2<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>90 2971<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>17<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>0<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>13<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span><span class=GramE>0<span
-style="mso-spacerun:yes">&nbsp; </span>188</span> 2692<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>1<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>E<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>4<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>39<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>53<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span><span class=SpellE>53</span> 3097<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp;&nbsp; </span><span
-class=GramE>prediction</span><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>A<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>B<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>E<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>A 4971<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>22<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>19<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>9<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>1<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=GramE>B<span style="mso-spacerun:yes">&nbsp; </span>162</span> 3150<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>94<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>4<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>8<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span><span class=GramE>0<span
-style="mso-spacerun:yes">&nbsp; </span>157</span> 2881<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>18<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>24<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>42<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span><span class=GramE>6<span
-style="mso-spacerun:yes">&nbsp; </span>182</span> 2607<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>58<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>E<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>6<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>20<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>56<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>20 3145<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp;&nbsp; </span><span
-class=GramE>prediction</span><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>A<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>B<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>E<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>A 4965<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>27<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>26<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>1<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>3<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=GramE>B<span style="mso-spacerun:yes">&nbsp; </span>221</span> 3037<span
-style="mso-spacerun:yes">&nbsp; </span>158<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>1<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>0<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span><span class=GramE>7<span
-style="mso-spacerun:yes">&nbsp; </span>121</span> 2922<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>29<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>0<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>12<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span><span class=GramE>0<span
-style="mso-spacerun:yes">&nbsp; </span>173</span> 2689<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>21<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>E<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>0<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>24<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>46<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>42 3134<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp;&nbsp; </span><span
-class=GramE>prediction</span><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>A<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>B<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>E<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>A 4947<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>31<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>21<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>20<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>3<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=GramE>B<span style="mso-spacerun:yes">&nbsp; </span>176</span> 3099<span
-style="mso-spacerun:yes">&nbsp; </span>111<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>20<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>11<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span><span class=GramE>6<span
-style="mso-spacerun:yes">&nbsp; </span>141</span> 2893<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>40<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>0<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>26<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span><span class=GramE>2<span
-style="mso-spacerun:yes">&nbsp; </span>180</span> 2676<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>11<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>E<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>3<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>16<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>82<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>28 3117<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp;&nbsp; </span><span
-class=GramE>prediction</span><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>A<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>B<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>E<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>A 4930<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>34<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>16<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>37<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>5<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=GramE>B<span style="mso-spacerun:yes">&nbsp; </span>180</span> 3076<span
-style="mso-spacerun:yes">&nbsp; </span>141<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>17<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>3<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>4<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>94 2962<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>20<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>0<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>13<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span><span class=GramE>3<span
-style="mso-spacerun:yes">&nbsp; </span>253</span> 2619<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>6<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>E<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>4<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>35<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>85<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>28 3094<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp;&nbsp; </span><span
-class=GramE>prediction</span><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>A<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>B<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>E<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>A 4953<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>23<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>21<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span><span class=SpellE>21</span><span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>4<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=GramE>B<span style="mso-spacerun:yes">&nbsp; </span>154</span> 3118<span
-style="mso-spacerun:yes">&nbsp; </span>138<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>6<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>1<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span><span class=GramE>13<span
-style="mso-spacerun:yes">&nbsp; </span>102</span> 2915<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>50<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>0<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>45<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span><span class=GramE>12<span
-style="mso-spacerun:yes">&nbsp; </span>192</span> 2622<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>23<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>E<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>2<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>19<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>18<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>23 3185<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp;&nbsp; </span><span
-class=GramE>prediction</span><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>A<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>B<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>E<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>A 4932<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>21<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>28<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>21<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>20<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=GramE>B<span style="mso-spacerun:yes">&nbsp; </span>150</span> 3169<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>81<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>12<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>6<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span><span class=GramE>0<span
-style="mso-spacerun:yes">&nbsp; </span>103</span> 2933<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>38<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>5<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>0<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span><span class=GramE>3<span
-style="mso-spacerun:yes">&nbsp; </span>134</span> 2738<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>20<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>E<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>5<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>44<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>46<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>32 3119<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp;&nbsp; </span><span
-class=GramE>prediction</span><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>A<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>B<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>E<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>A 4908<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>35<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>13<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>59<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>7<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span><span
-class=GramE>B<span style="mso-spacerun:yes">&nbsp; </span>114</span> 3171<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>97<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>19<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>17<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>C<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span><span class=GramE>6<span
-style="mso-spacerun:yes">&nbsp; </span>127</span> 2911<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>27<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>9<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>D<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>19<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span><span class=GramE>15<span
-style="mso-spacerun:yes">&nbsp; </span>184</span> 2664<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>12<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span style="mso-spacerun:yes">&nbsp; </span>E<span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>4<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>14<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>48<span
-style="mso-spacerun:yes">&nbsp;&nbsp; </span>37 3143<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>&gt; <span class=SpellE><span class=GramE>err.vec</span></span><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'><span
-style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>[<span class=GramE>,1</span>]<o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=GramE><span style='font-size:13.5pt;font-family:
-"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626;
-background:silver;mso-highlight:silver'>err</span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'> 0.05118913<o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=GramE><span style='font-size:13.5pt;font-family:
-"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626;
-background:silver;mso-highlight:silver'>err</span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'> 0.04428337<o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=GramE><span style='font-size:13.5pt;font-family:
-"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626;
-background:silver;mso-highlight:silver'>err</span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'> 0.04705816<o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=GramE><span style='font-size:13.5pt;font-family:
-"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626;
-background:silver;mso-highlight:silver'>err</span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'> 0.05140981<o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=GramE><span style='font-size:13.5pt;font-family:
-"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626;
-background:silver;mso-highlight:silver'>err</span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'> 0.05164505<o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=GramE><span style='font-size:13.5pt;font-family:
-"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626;
-background:silver;mso-highlight:silver'>err</span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'> 0.05254813<o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=GramE><span style='font-size:13.5pt;font-family:
-"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626;
-background:silver;mso-highlight:silver'>err</span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'> 0.05538252<o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=GramE><span style='font-size:13.5pt;font-family:
-"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626;
-background:silver;mso-highlight:silver'>err</span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'> 0.04909400<o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=GramE><span style='font-size:13.5pt;font-family:
-"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626;
-background:silver;mso-highlight:silver'>err</span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'> 0.04354473<o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=GramE><span style='font-size:13.5pt;font-family:
-"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626;
-background:silver;mso-highlight:silver'>err</span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626;background:silver;mso-highlight:silver'> 0.04886750<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>&gt; <span class=GramE>mean</span>(<span class=SpellE>err.vec</span>)<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>[1] 0.04950224</span><span style='font-size:13.5pt;
-font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>From the result above, we
-see that the expected out of sample error is 1-0.04950224 which is slightly
-above 95%. <span style="mso-spacerun:yes">&nbsp;</span><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<h2>2.3 Final training</h2>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>The cross validation above
-shows random forest model is a relatively good model for the data. Then we do
-the final <o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=GramE><span style='font-size:13.5pt;font-family:
-"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626'>fit</span></span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626'> to all the training data to get a final model, which will be
-used to predict the testing data.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>#<span class=SpellE><span
-class=GramE>randomForest</span></span> fit to all training data<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>&gt;<span class=SpellE><span class=GramE>finalFit</span></span>
-&lt;- <span class=SpellE>randomForest</span>(<span class=SpellE>clean.train$classe</span>
-~ .,data=<span class=SpellE>clean.train</span>)</span><span style='font-size:
-13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<h2>2.4 Summary </h2>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>In this project, we chose
-random forest model based on the known fact that it outperforms many other
-classification approaches and original <span class=GramE>paper[</span>2]. The
-accuracy validated in step 2.2 shows that it can gain a pretty good 95%
-accuracy in predicting data. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<h1>3. Prediction on test data</h1>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>Using the final model
-trained in 2.3, we predict the class for the testing data. The result is stored
-in <span class=SpellE><span class=GramE>prediction.Rdata</span></span><o:p></o:p></span></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>#<span class=GramE>prediction</span>
-for testing data<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>&gt;<span class=GramE>prediction</span> &lt;- predict(<span
-class=SpellE>finalFit,newdata</span>=<span class=SpellE>testing,type</span>=&quot;class&quot;)</span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>#<span class=GramE>save</span>
-data<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626;background:silver;
-mso-highlight:silver'>&gt;<span class=GramE>save</span>(<span class=SpellE>prediction,file</span>='<span
-class=SpellE>prediction.Rdata</span>')</span><span style='font-size:13.5pt;
-font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>The project is at <span
-class=SpellE>Github</span> repo:<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><a
-href="https://github.com/cindyli2012/pmlproject">https://github.com/cindyli2012/pmlproject</a><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>[References]<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>[1] Data source: </span><span
-style='font-family:"Helvetica Neue";mso-bidi-font-family:"Times New Roman"'><a
-href="http://groupware.les.inf.puc-rio.br/har"><span style='font-size:13.5pt;
-mso-bidi-font-family:"Helvetica Neue";color:#0B51A0;text-decoration:none;
-text-underline:none'>http://groupware.les.inf.puc-rio.br/har</span></a><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Helvetica Neue";mso-bidi-font-family:
-"Times New Roman"'>[2</span><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'>] <a
-href="http://groupware.les.inf.puc-rio.br/collaborator.jsf?p1=evelloso"><span
-class=SpellE><span style='color:#262626;text-decoration:none;text-underline:
-none'>Velloso</span></span><span style='color:#262626;text-decoration:none;
-text-underline:none'>, E.</span></a><span>; Bulling, A.; <span class=SpellE>Gellersen</span>,
-H.;&nbsp;<a
-href="http://groupware.les.inf.puc-rio.br/collaborator.jsf?p1=ugulino"><span
-class=SpellE><span style='color:#262626;text-decoration:none;text-underline:
-none'>Ugulino</span></span><span style='color:#262626;text-decoration:none;
-text-underline:none'>, W.</span></a><span>;&nbsp;<a
-href="http://groupware.les.inf.puc-rio.br/collaborator.jsf?p1=hugo"><span
-class=SpellE><span style='color:#262626;text-decoration:none;text-underline:
-none'>Fuks</span></span><span style='color:#262626;text-decoration:none;
-text-underline:none'>, H.</span></a></span><span class=apple-converted-space><span
-style='font-size:9.0pt;font-family:Arial;mso-fareast-font-family:"Times New Roman";
-color:black;background:white'><span>&nbsp;</span></span><strong
-style='box-sizing: border-box;orphans: auto;widows: auto;-webkit-text-stroke-width: 0px;
-word-spacing:0px'><span style='font-family:Arial;mso-fareast-font-family:"Times New Roman";
-color:black'></span><a
-href="http://groupware.les.inf.puc-rio.br/work.jsf?p1=11201"
-title="Qualitative Activity Recognition of Weight Lifting Exercises"
-style='box-sizing: border-box'><span style='color:#10407F'>Qualitative Activity
-Recognition of Weight Lifting Exercises</span></a></span></strong><span
-style='font-family:Arial;mso-fareast-font-family:"Times New Roman";color:black;
-background:white'><span>.</span><span style='font-size:9.0pt;font-family:Arial;
-mso-fareast-font-family:"Times New Roman";color:black;background:white'> </span><span
-style='font-size:13.5pt;font-family:"Helvetica Neue";mso-bidi-font-family:"Helvetica Neue";
-color:#262626'>Proceedings of 4th International Conference in Cooperation with
-SIGCHI (Augmented Human '13<span class=GramE>) .</span> Stuttgart, Germany: ACM
-SIGCHI, 2013.</span><br style='mso-special-character:line-break;box-sizing: border-box'>
-<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
-<![endif]><span></span><span style='mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman"'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Helvetica Neue";
-mso-bidi-font-family:"Helvetica Neue";color:#262626'><o:p>&nbsp;</o:p></span></p>
-
-</div>
-
-</body>
-
-</html>
+{\rtf1\adeflang1025\ansi\ansicpg10000\uc1\adeff31507\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi31507\deflang1033\deflangfe1033\themelang1033\themelangfe1041\themelangcs0{\fonttbl{\f0\fbidi \fnil\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fbidi \fnil\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}{\f15\fbidi \fnil\fcharset78\fprq2 \'82\'6c\'82\'72 \'96\'be\'92\'a9;}{\f19\fbidi \fnil\fcharset78\fprq2 \'82\'6c\'82\'72 \'83\'53\'83\'56\'83\'62\'83\'4e;}{\f34\fbidi \fnil\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f35\fbidi \fnil\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\f36\fbidi \fnil\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria;}{\f195\fbidi \fnil\fcharset0\fprq2{\*\panose 02000503000000020004}Helvetica Neue;}{\flomajor\f31500\fbidi \fnil\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}{\fdbmajor\f31501\fbidi \fnil\fcharset78\fprq2 \'82\'6c\'82\'72 \'83\'53\'83\'56\'83\'62\'83\'4e;}{\fhimajor\f31502\fbidi \fnil\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\fbimajor\f31503\fbidi \fnil\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\flominor\f31504\fbidi \fnil\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbminor\f31505\fbidi \fnil\fcharset78\fprq2 \'82\'6c\'82\'72 \'96\'be\'92\'a9;}{\fhiminor\f31506\fbidi \fnil\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria;}{\fbiminor\f31507\fbidi \fnil\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f646\fbidi \fnil\fcharset238\fprq2 Times New Roman CE;}{\f647\fbidi \fnil\fcharset204\fprq2 Times New Roman Cyr;}{\f649\fbidi \fnil\fcharset161\fprq2 Times New Roman Greek;}{\f650\fbidi \fnil\fcharset162\fprq2 Times New Roman Tur;}{\f651\fbidi \fnil\fcharset177\fprq2 Times New Roman (Hebrew);}{\f652\fbidi \fnil\fcharset178\fprq2 Times New Roman (Arabid);}{\f653\fbidi \fnil\fcharset186\fprq2 Times New Roman Baltic;}{\f654\fbidi \fnil\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f656\fbidi \fnil\fcharset238\fprq2 Arial CE;}{\f657\fbidi \fnil\fcharset204\fprq2 Arial Cyr;}{\f659\fbidi \fnil\fcharset161\fprq2 Arial Greek;}{\f660\fbidi \fnil\fcharset162\fprq2 Arial Tur;}{\f661\fbidi \fnil\fcharset177\fprq2 Arial (Hebrew);}{\f662\fbidi \fnil\fcharset178\fprq2 Arial (Arabid);}{\f663\fbidi \fnil\fcharset186\fprq2 Arial Baltic;}{\f664\fbidi \fnil\fcharset163\fprq2 Arial (Vietnamese);}{\f798\fbidi \fnil\fcharset0\fprq2 \'82\'6c\'82\'72 \'96\'be\'92\'a9 Western;}{\f796\fbidi \fnil\fcharset238\fprq2 \'82\'6c\'82\'72 \'96\'be\'92\'a9 CE;}{\f797\fbidi \fnil\fcharset204\fprq2 \'82\'6c\'82\'72 \'96\'be\'92\'a9 Cyr;}{\f799\fbidi \fnil\fcharset161\fprq2 \'82\'6c\'82\'72 \'96\'be\'92\'a9 Greek;}{\f800\fbidi \fnil\fcharset162\fprq2 \'82\'6c\'82\'72 \'96\'be\'92\'a9 Tur;}{\f803\fbidi \fnil\fcharset186\fprq2 \'82\'6c\'82\'72 \'96\'be\'92\'a9 Baltic;}{\f838\fbidi \fnil\fcharset0\fprq2 \'82\'6c\'82\'72 \'83\'53\'83\'56\'83\'62\'83\'4e Western;}{\f836\fbidi \fnil\fcharset238\fprq2 \'82\'6c\'82\'72 \'83\'53\'83\'56\'83\'62\'83\'4e CE;}{\f837\fbidi \fnil\fcharset204\fprq2 \'82\'6c\'82\'72 \'83\'53\'83\'56\'83\'62\'83\'4e Cyr;}{\f839\fbidi \fnil\fcharset161\fprq2 \'82\'6c\'82\'72 \'83\'53\'83\'56\'83\'62\'83\'4e Greek;}{\f840\fbidi \fnil\fcharset162\fprq2 \'82\'6c\'82\'72 \'83\'53\'83\'56\'83\'62\'83\'4e Tur;}{\f843\fbidi \fnil\fcharset186\fprq2 \'82\'6c\'82\'72 \'83\'53\'83\'56\'83\'62\'83\'4e Baltic;}{\f986\fbidi \fnil\fcharset238\fprq2 Cambria Math CE;}{\f987\fbidi \fnil\fcharset204\fprq2 Cambria Math Cyr;}{\f989\fbidi \fnil\fcharset161\fprq2 Cambria Math Greek;}{\f990\fbidi \fnil\fcharset162\fprq2 Cambria Math Tur;}{\f993\fbidi \fnil\fcharset186\fprq2 Cambria Math Baltic;}{\f994\fbidi \fnil\fcharset163\fprq2 Cambria Math (Vietnamese);}{\f996\fbidi \fnil\fcharset238\fprq2 Calibri CE;}{\f997\fbidi \fnil\fcharset204\fprq2 Calibri Cyr;}{\f999\fbidi \fnil\fcharset161\fprq2 Calibri Greek;}{\f1000\fbidi \fnil\fcharset162\fprq2 Calibri Tur;}{\f1003\fbidi \fnil\fcharset186\fprq2 Calibri Baltic;}{\f1004\fbidi \fnil\fcharset163\fprq2 Calibri (Vietnamese);}{\f1006\fbidi \fnil\fcharset238\fprq2 Cambria CE;}{\f1007\fbidi \fnil\fcharset204\fprq2 Cambria Cyr;}{\f1009\fbidi \fnil\fcharset161\fprq2 Cambria Greek;}{\f1010\fbidi \fnil\fcharset162\fprq2 Cambria Tur;}{\f1013\fbidi \fnil\fcharset186\fprq2 Cambria Baltic;}{\f1014\fbidi \fnil\fcharset163\fprq2 Cambria (Vietnamese);}{\flomajor\f31508\fbidi \fnil\fcharset238\fprq2 Arial CE;}{\flomajor\f31509\fbidi \fnil\fcharset204\fprq2 Arial Cyr;}{\flomajor\f31511\fbidi \fnil\fcharset161\fprq2 Arial Greek;}{\flomajor\f31512\fbidi \fnil\fcharset162\fprq2 Arial Tur;}{\flomajor\f31513\fbidi \fnil\fcharset177\fprq2 Arial (Hebrew);}{\flomajor\f31514\fbidi \fnil\fcharset178\fprq2 Arial (Arabid);}{\flomajor\f31515\fbidi \fnil\fcharset186\fprq2 Arial Baltic;}{\flomajor\f31516\fbidi \fnil\fcharset163\fprq2 Arial (Vietnamese);}{\fdbmajor\f31520\fbidi \fnil\fcharset0\fprq2 \'82\'6c\'82\'72 \'83\'53\'83\'56\'83\'62\'83\'4e Western;}{\fdbmajor\f31518\fbidi \fnil\fcharset238\fprq2 \'82\'6c\'82\'72 \'83\'53\'83\'56\'83\'62\'83\'4e CE;}{\fdbmajor\f31519\fbidi \fnil\fcharset204\fprq2 \'82\'6c\'82\'72 \'83\'53\'83\'56\'83\'62\'83\'4e Cyr;}{\fdbmajor\f31521\fbidi \fnil\fcharset161\fprq2 \'82\'6c\'82\'72 \'83\'53\'83\'56\'83\'62\'83\'4e Greek;}{\fdbmajor\f31522\fbidi \fnil\fcharset162\fprq2 \'82\'6c\'82\'72 \'83\'53\'83\'56\'83\'62\'83\'4e Tur;}{\fdbmajor\f31525\fbidi \fnil\fcharset186\fprq2 \'82\'6c\'82\'72 \'83\'53\'83\'56\'83\'62\'83\'4e Baltic;}{\fhimajor\f31528\fbidi \fnil\fcharset238\fprq2 Calibri CE;}{\fhimajor\f31529\fbidi \fnil\fcharset204\fprq2 Calibri Cyr;}{\fhimajor\f31531\fbidi \fnil\fcharset161\fprq2 Calibri Greek;}{\fhimajor\f31532\fbidi \fnil\fcharset162\fprq2 Calibri Tur;}{\fhimajor\f31535\fbidi \fnil\fcharset186\fprq2 Calibri Baltic;}{\fhimajor\f31536\fbidi \fnil\fcharset163\fprq2 Calibri (Vietnamese);}{\fbimajor\f31538\fbidi \fnil\fcharset238\fprq2 Times New Roman CE;}{\fbimajor\f31539\fbidi \fnil\fcharset204\fprq2 Times New Roman Cyr;}{\fbimajor\f31541\fbidi \fnil\fcharset161\fprq2 Times New Roman Greek;}{\fbimajor\f31542\fbidi \fnil\fcharset162\fprq2 Times New Roman Tur;}{\fbimajor\f31543\fbidi \fnil\fcharset177\fprq2 Times New Roman (Hebrew);}{\fbimajor\f31544\fbidi \fnil\fcharset178\fprq2 Times New Roman (Arabid);}{\fbimajor\f31545\fbidi \fnil\fcharset186\fprq2 Times New Roman Baltic;}{\fbimajor\f31546\fbidi \fnil\fcharset163\fprq2 Times New Roman (Vietnamese);}{\flominor\f31548\fbidi \fnil\fcharset238\fprq2 Times New Roman CE;}{\flominor\f31549\fbidi \fnil\fcharset204\fprq2 Times New Roman Cyr;}{\flominor\f31551\fbidi \fnil\fcharset161\fprq2 Times New Roman Greek;}{\flominor\f31552\fbidi \fnil\fcharset162\fprq2 Times New Roman Tur;}{\flominor\f31553\fbidi \fnil\fcharset177\fprq2 Times New Roman (Hebrew);}{\flominor\f31554\fbidi \fnil\fcharset178\fprq2 Times New Roman (Arabid);}{\flominor\f31555\fbidi \fnil\fcharset186\fprq2 Times New Roman Baltic;}{\flominor\f31556\fbidi \fnil\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbminor\f31560\fbidi \fnil\fcharset0\fprq2 \'82\'6c\'82\'72 \'96\'be\'92\'a9 Western;}{\fdbminor\f31558\fbidi \fnil\fcharset238\fprq2 \'82\'6c\'82\'72 \'96\'be\'92\'a9 CE;}{\fdbminor\f31559\fbidi \fnil\fcharset204\fprq2 \'82\'6c\'82\'72 \'96\'be\'92\'a9 Cyr;}{\fdbminor\f31561\fbidi \fnil\fcharset161\fprq2 \'82\'6c\'82\'72 \'96\'be\'92\'a9 Greek;}{\fdbminor\f31562\fbidi \fnil\fcharset162\fprq2 \'82\'6c\'82\'72 \'96\'be\'92\'a9 Tur;}{\fdbminor\f31565\fbidi \fnil\fcharset186\fprq2 \'82\'6c\'82\'72 \'96\'be\'92\'a9 Baltic;}{\fhiminor\f31568\fbidi \fnil\fcharset238\fprq2 Cambria CE;}{\fhiminor\f31569\fbidi \fnil\fcharset204\fprq2 Cambria Cyr;}{\fhiminor\f31571\fbidi \fnil\fcharset161\fprq2 Cambria Greek;}{\fhiminor\f31572\fbidi \fnil\fcharset162\fprq2 Cambria Tur;}{\fhiminor\f31575\fbidi \fnil\fcharset186\fprq2 Cambria Baltic;}{\fhiminor\f31576\fbidi \fnil\fcharset163\fprq2 Cambria (Vietnamese);}{\fbiminor\f31578\fbidi \fnil\fcharset238\fprq2 Times New Roman CE;}{\fbiminor\f31579\fbidi \fnil\fcharset204\fprq2 Times New Roman Cyr;}{\fbiminor\f31581\fbidi \fnil\fcharset161\fprq2 Times New Roman Greek;}{\fbiminor\f31582\fbidi \fnil\fcharset162\fprq2 Times New Roman Tur;}{\fbiminor\f31583\fbidi \fnil\fcharset177\fprq2 Times New Roman (Hebrew);}{\fbiminor\f31584\fbidi \fnil\fcharset178\fprq2 Times New Roman (Arabid);}{\fbiminor\f31585\fbidi \fnil\fcharset186\fprq2 Times New Roman Baltic;}{\fbiminor\f31586\fbidi \fnil\fcharset163\fprq2 Times New Roman (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\caccentone\ctint255\cshade181\red52\green90\blue138;\caccentone\ctint255\cshade255\red79\green129\blue189;\chyperlink\ctint255\cshade255\red0\green0\blue255;\cfollowedhyperlink\ctint255\cshade255\red128\green0\blue128;\ctexttwo\ctint255\cshade191\red23\green54\blue93;\red38\green38\blue38;\red11\green81\blue160;\red16\green64\blue127;}{\*\defchp \fs24\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap \ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1033 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext0 \sqformat \spriority0 Normal;}{\s1\ql \li0\ri0\sb480\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af31503\afs32\alang1033 \ltrch\fcs0 \b\fs32\cf17\lang1033\langfe1033\loch\f31502\hich\af31502\dbch\af31501\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 \slink21 \sqformat \spriority9 \styrsid4552517 heading 1;}{\s2\ql \li0\ri0\sb200\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af31503\afs26\alang1033 \ltrch\fcs0 \b\fs26\cf18\lang1033\langfe1033\loch\f31502\hich\af31502\dbch\af31501\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 \slink20 \sunhideused \sqformat \spriority9 \styrsid4552517 heading 2;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat8\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1033 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext11 \ssemihidden \sunhideused Normal Table;}{\s15\ql \li720\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\contextualspace \rtlch\fcs1 \af31507\afs24\alang1033 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext15 \sqformat \spriority34 \styrsid7352820 List Paragraph;}{\*\cs16 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf19 \sbasedon10 \sunhideused \styrsid12741173 Hyperlink;}{\*\cs17 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf20 \sbasedon10 \ssemihidden \sunhideused \styrsid5966391 FollowedHyperlink;}{\s18\ql \li0\ri0\sa300\widctlpar\brdrb\brdrs\brdrw20\brsp80\brdrcf18 \wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\contextualspace \rtlch\fcs1 \af31503\afs52\alang1033 \ltrch\fcs0 \fs52\expnd1\expndtw5\cf21\lang1033\langfe1033\kerning28\loch\f31502\hich\af31502\dbch\af31501\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 \slink19 \sqformat \spriority10 \styrsid4552517 Title;}{\*\cs19 \additive \rtlch\fcs1 \af31503\afs52 \ltrch\fcs0 \fs52\expnd1\expndtw5\cf21\kerning28\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink18 \slocked \spriority10 \styrsid4552517 Title Char;}{\*\cs20 \additive \rtlch\fcs1 \ab\af31503\afs26 \ltrch\fcs0 \b\fs26\cf18\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink2 \slocked \spriority9 \styrsid4552517 Heading 2 Char;}{\*\cs21 \additive \rtlch\fcs1 \ab\af31503\afs32 \ltrch\fcs0 \b\fs32\cf17\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink1 \slocked \spriority9 \styrsid4552517 Heading 1 Char;}{\*\cs22 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \spriority0 \styrsid3959272 apple-converted-space;}{\*\cs23 \additive \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b \sbasedon10 \sqformat \spriority22 \styrsid3959272 Strong;}}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid463106\rsid682195\rsid1067491\rsid1667450\rsid1783099\rsid2305580\rsid2323144\rsid2760110\rsid2779381\rsid3426518\rsid3959272\rsid4476150\rsid4552517\rsid5512994\rsid5966391\rsid6369557\rsid7237857\rsid7352820\rsid7554203\rsid7882405\rsid8007637\rsid8259140\rsid8601528\rsid9976067\rsid10034795\rsid10315054\rsid10623929\rsid11026461\rsid11216997\rsid11871320\rsid12741173\rsid13590518\rsid14051899\rsid14304621\rsid15140528\rsid15544551}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\author Li, Cindy}{\operator Li, Cindy}{\creatim\yr2014\mo9\dy21\hr15\min18}{\revtim\yr2014\mo9\dy21\hr15\min18}{\version2}{\edmins0}{\nofpages3}{\nofwords1041}{\nofchars5937}{\*\company ebay}{\nofcharsws6965}{\vern49553}{\*\saveprevpict}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\gutter0\ltrsect \ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont1\relyonvml0\donotembedlingdata0\grfdocevents0\validatexml1\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors1\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\formshade\horzdoc\dgmargin\dghspace180\dgvspace180\dghorigin1800\dgvorigin1440\dghshow1\dgvshow1\jexpand\viewkind5\viewscale100\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct\asianbrkrule\rsidroot14304621\newtblstyruls\nogrowautofit\usenormstyforlist\noindnmbrts\felnbrelev\nocxsptable\indrlsweleven\noafcnsttbl\afelev\utinl\hwelev\spltpgpar\notcvasp\notbrkcnstfrctbl\notvatxbx\krnprsnet\cachedcolbal\outdisponlyhtml \nouicompat \fet0{\*\wgrffmtfilter 2450}\nofeaturethrottle1\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\endnhere\sectlinegrid360\sectdefaultcl\sectrsid6369557\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\s1\ql \li0\ri0\sb480\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0\pararsid4552517 \rtlch\fcs1 \ab\af31503\afs32\alang1033 \ltrch\fcs0 \b\fs32\cf17\lang1033\langfe1033\loch\af31502\hich\af31502\dbch\af31501\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid12741173 \hich\af31502\dbch\af31501\loch\f31502 1. }{\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid4552517 \hich\af31502\dbch\af31501\loch\f31502 Problem analysis\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1033 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid12741173 \hich\af195\dbch\af31505\loch\f195 This is a classification problem. \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid463106 \hich\af195\dbch\af31505\loch\f195 Random forest is known to produce good accuracy for classication problem. So I focus on training with random forest.\par \par }\pard\plain \ltrpar\s1\ql \li0\ri0\sb480\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0\pararsid4552517 \rtlch\fcs1 \ab\af31503\afs32\alang1033 \ltrch\fcs0 \b\fs32\cf17\lang1033\langfe1033\loch\af31502\hich\af31502\dbch\af31501\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid5966391 \hich\af31502\dbch\af31501\loch\f31502 2. }{\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid8007637 \hich\af31502\dbch\af31501\loch\f31502 Building model}{\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid5966391 \par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8007637 \rtlch\fcs1 \af31507\afs24\alang1033 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8007637 \hich\af195\dbch\af31505\loch\f195 First tried to run randomForest, which \hich\af195\dbch\af31505\loch\f195 doesn\loch\af195\dbch\af31505\hich\f195 \rquote \hich\af195\dbch\af31505\loch\f195 t take missing data\hich\af195\dbch\af31505\loch\f195  and \hich\af195\dbch\af31505\loch\f195 c}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8007637\charrsid8007637 \hich\af195\dbch\af31505\loch\f195 an not handle categorical predictors with more than 53 categories.}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8007637 \hich\af195\dbch\af31505\loch\f195  \par \par \hich\af195\dbch\af31505\loch\f195 So u\hich\af195\dbch\af31505\loch\f195 sed the caret package with train, but it takes around 2 hours to finish. Too slow, and the fitt\hich\af195\dbch\af31505\loch\f195 ed model can\loch\af195\dbch\af31505\hich\f195 \rquote \hich\af195\dbch\af31505\loch\f195 t be used for newdata which also contains missing values.\par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid14051899 \hich\af195\dbch\af31505\loch\f195 >}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid8007637\charrsid14051899 \hich\af195\dbch\af31505\loch\f195 modFit <- train(training$classe~., data=training, method='rf',prox=TRUE)\par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid14051899 \hich\af195\dbch\af31505\loch\f195 >}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid8007637\charrsid14051899 \hich\af195\dbch\af31505\loch\f195 modFit}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8007637\charrsid7352820 \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid8007637\charrsid14051899 \hich\af195\dbch\af31505\loch\f195 Random Forest \par \par \hich\af195\dbch\af31505\loch\f195 19622 samples\par \hich\af195\dbch\af31505\loch\f195   159 predictor\par \hich\af195\dbch\af31505\loch\f195     5 classes: 'A', 'B', 'C'\hich\af195\dbch\af31505\loch\f195 , 'D', 'E' \par \par \hich\af195\dbch\af31505\loch\f195 No pre-processing\par \hich\af195\dbch\af31505\loch\f195 Resampling: Bootstrapped (25 reps) \par \par \hich\af195\dbch\af31505\loch\f195 Summary of sample sizes: 406, 406, 406, 406, 406, 406, ... \par \par \hich\af195\dbch\af31505\loch\f195 Resampling results across tuning parameters:\par \par \hich\af195\dbch\af31505\loch\f195   mtry  Accuracy  Kappa  Accuracy SD  Kappa SD\par \hich\af195\dbch\af31505\loch\f195      2  0.254     0.000  0.04562  \hich\af195\dbch\af31505\loch\f195     0.00000 \par \hich\af195\dbch\af31505\loch\f195    117  0.861     0.824  0.04437      0.05568 \par \hich\af195\dbch\af31505\loch\f195   6952  0.992     0.990  0.00788      0.00998 \par \par \hich\af195\dbch\af31505\loch\f195 Accuracy was used to select the optimal model using  the largest value.\par \hich\af195\dbch\af31505\loch\f195 The final value used for the model was mtry = 6952.}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8007637 \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8007637 \par \hich\af195\dbch\af31505\loch\f195 B}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8007637 \hich\af195\dbch\af31505\loch\f195 ut the test data also co\hich\af195\dbch\af31505\loch\f195 ntains missing data, \hich\af195\dbch\af31505\loch\f195 getting error like this}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8007637 \hich\af195\dbch\af31505\loch\f195  when use the fitted model to predict.}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8007637 \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid14051899 \hich\af195\dbch\af31505\loch\f195 >}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid8007637\charrsid14051899 \hich\af195\dbch\af31505\loch\f195 prediction <- predict(modFit$finalModel, newdata=testing, na.rm=TRUE, type='response')\par \hich\af195\dbch\af31505\loch\f195 Error in predict.randomForest(modFit$finalModel, newdata = testing, na.rm = TRUE,  : \par \hich\af195\dbch\af31505\loch\f195   missing values in newdata}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8007637 \par \par \par \hich\af195\dbch\af31505\loch\f195 So }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid14051899 \hich\af195\dbch\af31505\loch\f195 first we need to clean up the data. \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8007637 \par \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb200\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid4552517 \rtlch\fcs1 \ab\af31503\afs26\alang1033 \ltrch\fcs0 \b\fs26\cf18\lang1033\langfe1033\loch\af31502\hich\af31502\dbch\af31501\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid8007637 \hich\af31502\dbch\af31501\loch\f31502 2.1 }{\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid4552517 \hich\af31502\dbch\af31501\loch\f31502 C\hich\af31502\dbch\af31501\loch\f31502 l\hich\af31502\dbch\af31501\loch\f31502 ean \hich\af31502\dbch\af31501\loch\f31502 up data\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1033 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid463106 \hich\af195\dbch\af31505\loch\f195 First step is to clean up the training dat\hich\af195\dbch\af31505\loch\f195 a. The given data consists lots of NA }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8007637 \hich\af195\dbch\af31505\loch\f195 or missing }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid463106 \hich\af195\dbch\af31505\loch\f195 values, which need to be cleaned up. \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8007637 \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid463106 \hich\af195\dbch\af31505\loch\f195 Try removing the NA values first. If generating good enough ac}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid14051899 \hich\af195\dbch\af31505\loch\f195 curacy, which means the\hich\af195\dbch\af31505\loch\f195 y}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid463106 \hich\af195\dbch\af31505\loch\f195  a\hich\af195\dbch\af31505\loch\f195 re not\hich\af195\dbch\af31505\loch\f195  very \hich\af195\dbch\af31505\loch\f195 necessary}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8601528 \hich\af195\dbch\af31505\loch\f195  for prediction\hich\af195\dbch\af31505\loch\f195 , }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid463106 \hich\af195\dbch\af31505\loch\f195 we d\hich\af195\dbch\af31505\loch\f195 on\loch\af195\dbch\af31505\hich\f195 \rquote \hich\af195\dbch\af31505\loch\f195 t need to proceed with the imputation method, which may not produce better result either. \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8601528 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8601528\charrsid8601528 \par \hich\af195\dbch\af31505\loch\f195 # delete columns with # of NA >=500\par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid8601528\charrsid8601528 \hich\af195\dbch\af31505\loch\f195 >}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid8601528\charrsid8601528 \hich\af195\dbch\af31505\loch\f195 clean.train <- training[colSums(is.na(training)) < 500]}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8601528 \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8601528\charrsid8601528 \par \hich\af195\dbch\af31505\loch\f195 # remove irrelevant variables\hich\af195\dbch\af31505\loch\f195 : X, user_name, raw_timestram_part_1, raw_timestram_part_2, cvtd_timestamp,\par \hich\af195\dbch\af31505\loch\f195 # new_window, num_window\par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid8601528\charrsid8601528 \hich\af195\dbch\af31505\loch\f195 >}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid8601528\charrsid8601528 \hich\af195\dbch\af31505\loch\f195 clean.train <- clean.train[,-1:-7]}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8601528 \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8601528\charrsid8601528 \par \hich\af195\dbch\af31505\loch\f195 # remove near Zero Variables\par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid8601528\charrsid8601528 \hich\af195\dbch\af31505\loch\f195 >}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid8601528\charrsid8601528 \hich\af195\dbch\af31505\loch\f195 clean.train <- clean.train[,!nearZeroVar(clean.train,saveMetrics=T)$nzv]}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8601528 \par \par \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8601528 \hich\af195\dbch\af31505\loch\f195 After the preprocessing above, the number of predictors reduced\hich\af195\dbch\af31505\loch\f195  from 160 to 53. }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid1783099 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb200\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid4552517 \rtlch\fcs1 \ab\af31503\afs26\alang1033 \ltrch\fcs0 \b\fs26\cf18\lang1033\langfe1033\loch\af31502\hich\af31502\dbch\af31501\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid4552517 \hich\af31502\dbch\af31501\loch\f31502 2.2 \hich\af31502\dbch\af31501\loch\f31502 C\hich\af31502\dbch\af31501\loch\f31502 ross validation}{\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid14304621 \par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1033 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid14304621 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8601528 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8601528 \hich\af195\dbch\af31505\loch\f195 First let\loch\af195\dbch\af31505\hich\f195 \rquote \hich\af195\dbch\af31505\loch\f195 s do the cross validation for the random forest model.\hich\af195\dbch\af31505\loch\f195  \hich\af195\dbch\af31505\loch\f195 Here I chose the commonly used 10-fold cross validation. \par \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid8601528\charrsid8601528 \hich\af195\dbch\af31505\loch\f195 subsets <- createFo\hich\af195\dbch\af31505\loch\f195 lds(clean.train$classe, k = 10, list = TRUE, returnTrain = FALSE)\par \hich\af195\dbch\af31505\loch\f195 err.vec <- numeric(0)\par \hich\af195\dbch\af31505\loch\f195 fits <- list()\par \par \hich\af195\dbch\af31505\loch\f195 for (i in 1:10) \{\par \hich\af195\dbch\af31505\loch\f195   fits[[i]] <- randomForest(clean.train$classe ~ .,data=train,subset=subsets[[i]])\par \hich\af195\dbch\af31505\loch\f195   prediction <- predict(fits[[i]],newdata=clean.train[-subsets[[i]],],type="class")\par \hich\af195\dbch\af31505\loch\f195   cfMatrix <- table(clean.train$classe[-subsets[[i]]],prediction)\par \hich\af195\dbch\af31505\loch\f195   print(cfMatrix)\par \hich\af195\dbch\af31505\loch\f195   err <- 1.0 - sum(diag(cfMatrix))/sum(cfMatrix)\par \hich\af195\dbch\af31505\loch\f195   err.vec <- rbind(err.vec,err)\par \}\par \hich\af195\dbch\af31505\loch\f195 err.v\hich\af195\dbch\af31505\loch\f195 ec\par \hich\af195\dbch\af31505\loch\f195 mean(err.vec)}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid4552517 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4552517 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid5512994 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5512994 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid5512994\charrsid8601528 \hich\af195\dbch\af31505\loch\f195 prediction\par \hich\af195\dbch\af31505\loch\f195        A    B    C    D    E\par \hich\af195\dbch\af31505\loch\f195   A 4887   32   25   59   19\par \hich\af195\dbch\af31505\loch\f195   B  214 3066  134    1    2\par \hich\af195\dbch\af31505\loch\f195   C    0  154 2858   65    3\par \hich\af195\dbch\af31505\loch\f195   D \hich\af195\dbch\af31505\loch\f195   11    2  110 2756   15\par \hich\af195\dbch\af31505\loch\f195   E    7    9   23   19 3189\par \hich\af195\dbch\af31505\loch\f195    prediction\par \hich\af195\dbch\af31505\loch\f195        A    B    C    D    E\par \hich\af195\dbch\af31505\loch\f195   A 4990   19    1    4    8\par \hich\af195\dbch\af31505\loch\f195   B  168 3069  175    3    2\par \hich\af195\dbch\af31505\loch\f195   C    2  101 2943   32    2\par \hich\af195\dbch\af31505\loch\f195   D    6    2  167 2707   12\par \hich\af195\dbch\af31505\loch\f195   E    4   14   35   25 3168\par \hich\af195\dbch\af31505\loch\f195    prediction\par \hich\af195\dbch\af31505\loch\f195        A    B    C    D    E\par \hich\af195\dbch\af31505\loch\f195   A 4954   22   13   28    5\par \hich\af195\dbch\af31505\loch\f195   B  191 3114  104    7    1\par \hich\af195\dbch\af31505\loch\f195   C    2   90 2971   17    0\par \hich\af195\dbch\af31505\loch\f195   D   13    0  188 2692    1\par \hich\af195\dbch\af31505\loch\f195   E    4   39   53   53 3097\par \hich\af195\dbch\af31505\loch\f195    prediction\par \hich\af195\dbch\af31505\loch\f195        A    B    C    D    E\par \hich\af195\dbch\af31505\loch\f195   A 4971   22   19    9    1\par \hich\af195\dbch\af31505\loch\f195   B  162 3\hich\af195\dbch\af31505\loch\f195 150   94    4    8\par \hich\af195\dbch\af31505\loch\f195   C    0  157 2881   18   24\par \hich\af195\dbch\af31505\loch\f195   D   42    6  182 2607   58\par \hich\af195\dbch\af31505\loch\f195   E    6   20   56   20 3145\par \hich\af195\dbch\af31505\loch\f195    prediction\par \hich\af195\dbch\af31505\loch\f195        A    B    C    D    E\par \hich\af195\dbch\af31505\loch\f195   A 4965   27   26    1    3\par \hich\af195\dbch\af31505\loch\f195   B  221 3037  158    1    0\par \hich\af195\dbch\af31505\loch\f195   C    7  121 2922   29    0\par \hich\af195\dbch\af31505\loch\f195   D   12    0  173 2\hich\af195\dbch\af31505\loch\f195 689   21\par \hich\af195\dbch\af31505\loch\f195   E    0   24   46   42 3134\par \hich\af195\dbch\af31505\loch\f195    prediction\par \hich\af195\dbch\af31505\loch\f195        A    B    C    D    E\par \hich\af195\dbch\af31505\loch\f195   A 4947   31   21   20    3\par \hich\af195\dbch\af31505\loch\f195   B  176 3099  111   20   11\par \hich\af195\dbch\af31505\loch\f195   C    6  141 2893   40    0\par \hich\af195\dbch\af31505\loch\f195   D   26    2  180 2676   11\par \hich\af195\dbch\af31505\loch\f195   E    3   16   82   28 3117\par \hich\af195\dbch\af31505\loch\f195    prediction\par \hich\af195\dbch\af31505\loch\f195        A    B    C    D    E\par \hich\af195\dbch\af31505\loch\f195   A 4930   34   16   37    5\par \hich\af195\dbch\af31505\loch\f195   B  180 3076  141   17    3\par \hich\af195\dbch\af31505\loch\f195   C    4   94 2962   20    0\par \hich\af195\dbch\af31505\loch\f195   D   13    3  253 2619    6\par \hich\af195\dbch\af31505\loch\f195   E    4   35   85   28 3094\par \hich\af195\dbch\af31505\loch\f195    prediction\par \hich\af195\dbch\af31505\loch\f195        A    B    C    D    E\par \hich\af195\dbch\af31505\loch\f195   A 4953   23   21   21    4\par \hich\af195\dbch\af31505\loch\f195   B  154 3\hich\af195\dbch\af31505\loch\f195 118  138    6    1\par \hich\af195\dbch\af31505\loch\f195   C   13  102 2915   50    0\par \hich\af195\dbch\af31505\loch\f195   D   45   12  192 2622   23\par \hich\af195\dbch\af31505\loch\f195   E    2   19   18   23 3185\par \hich\af195\dbch\af31505\loch\f195    prediction\par \hich\af195\dbch\af31505\loch\f195        A    B    C    D    E\par \hich\af195\dbch\af31505\loch\f195   A 4932   21   28   21   20\par \hich\af195\dbch\af31505\loch\f195   B  150 3169   81   12    6\par \hich\af195\dbch\af31505\loch\f195   C    0  103 2933   38    5\par \hich\af195\dbch\af31505\loch\f195   D    0    3  134 2\hich\af195\dbch\af31505\loch\f195 738   20\par \hich\af195\dbch\af31505\loch\f195   E    5   44   46   32 3119\par \hich\af195\dbch\af31505\loch\f195    prediction\par \hich\af195\dbch\af31505\loch\f195        A    B    C    D    E\par \hich\af195\dbch\af31505\loch\f195   A 4908   35   13   59    7\par \hich\af195\dbch\af31505\loch\f195   B  114 3171   97   19   17\par \hich\af195\dbch\af31505\loch\f195   C    6  127 2911   27    9\par \hich\af195\dbch\af31505\loch\f195   D   19   15  184 2664   12\par \hich\af195\dbch\af31505\loch\f195   E    4   14   48   37 3143\par \hich\af195\dbch\af31505\loch\f195 > err.vec\par \hich\af195\dbch\af31505\loch\f195           [,1]\par \hich\af195\dbch\af31505\loch\f195 err 0.05118913\par \hich\af195\dbch\af31505\loch\f195 err 0.04428337\par \hich\af195\dbch\af31505\loch\f195 err 0.04705816\par \hich\af195\dbch\af31505\loch\f195 err 0.05140981\par \hich\af195\dbch\af31505\loch\f195 err 0.05164505\par \hich\af195\dbch\af31505\loch\f195 err 0.05254813\par \hich\af195\dbch\af31505\loch\f195 err 0.05538252\par \hich\af195\dbch\af31505\loch\f195 err 0.04909400\par \hich\af195\dbch\af31505\loch\f195 err 0.04354473\par \hich\af195\dbch\af31505\loch\f195 err 0.04886750\par \hich\af195\dbch\af31505\loch\f195 > mean(err.vec)\par \hich\af195\dbch\af31505\loch\f195 [1] 0.04950224}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid5512994 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid5512994 \par \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8601528 \hich\af195\dbch\af31505\loch\f195 From the result above, we see that t}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid2305580 \hich\af195\dbch\af31505\loch\f195 he expected out of sample error is}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid5512994 \hich\af195\dbch\af31505\loch\f195  \hich\af195\dbch\af31505\loch\f195 1-}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid5512994\charrsid5512994 \hich\af195\dbch\af31505\loch\f195 0.04950224}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid5512994 \hich\af195\dbch\af31505\loch\f195  which is \hich\af195\dbch\af31505\loch\f195 slightly above \hich\af195\dbch\af31505\loch\f195 95%\hich\af195\dbch\af31505\loch\f195 . }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid14051899 \hich\af195\dbch\af31505\loch\f195  }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid4552517 \par \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid11871320 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb200\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid11871320 \rtlch\fcs1 \ab\af31503\afs26\alang1033 \ltrch\fcs0 \b\fs26\cf18\lang1033\langfe1033\loch\af31502\hich\af31502\dbch\af31501\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid11871320 \hich\af31502\dbch\af31501\loch\f31502 2.3 Final training\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1033 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid11871320 \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid14051899 \hich\af195\dbch\af31505\loch\f195 The cross validation above shows random forest model \hich\af195\dbch\af31505\loch\f195 is a relatively good model for the data. Then we do the final \par \hich\af195\dbch\af31505\loch\f195 f\hich\af195\dbch\af31505\loch\f195 it \hich\af195\dbch\af31505\loch\f195 to al\hich\af195\dbch\af31505\loch\f195 l the training data to get a final model, which will be used to predict the testing data.\par \par \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14051899 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid14051899\charrsid14051899 \hich\af195\dbch\af31505\loch\f195 #randomForest fit to all training data\par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid8601528\charrsid8601528 \hich\af195\dbch\af31505\loch\f195 >}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid14051899\charrsid8601528 \hich\af195\dbch\af31505\loch\f195 finalFit <- randomForest(clean.train$\hich\af195\dbch\af31505\loch\f195 classe ~ .,data=clean.train)}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid14051899\charrsid14051899 \par \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid14304621 \par }\pard\plain \ltrpar\s2\ql \li0\ri0\sb200\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid11871320 \rtlch\fcs1 \ab\af31503\afs26\alang1033 \ltrch\fcs0 \b\fs26\cf18\lang1033\langfe1033\loch\af31502\hich\af31502\dbch\af31501\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid11871320 \hich\af31502\dbch\af31501\loch\f31502 2.4}{\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid14304621 \hich\af31502\dbch\af31501\loch\f31502  }{\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid11871320 \hich\af31502\dbch\af31501\loch\f31502 Summary}{\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid14304621 \hich\af31502\dbch\af31501\loch\f31502  }{\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid14304621 \par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1033 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8601528 \hich\af195\dbch\af31505\loch\f195 In this project, we chose random forest model }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid682195 \hich\af195\dbch\af31505\loch\f195 based on \hich\af195\dbch\af31505\loch\f195 the known fact that it outperform}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid13590518 \hich\af195\dbch\af31505\loch\f195 s}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid682195 \hich\af195\dbch\af31505\loch\f195  many other classification approaches and origina\hich\af195\dbch\af31505\loch\f195 l paper[\hich\af195\dbch\af31505\loch\f195 2\hich\af195\dbch\af31505\loch\f195 ]\hich\af195\dbch\af31505\loch\f195 . }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid13590518 \hich\af195\dbch\af31505\loch\f195 The accuracy validated in step 2.2 shows that it can gain}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8601528 \hich\af195\dbch\af31505\loch\f195  \hich\af195\dbch\af31505\loch\f195 a \hich\af195\dbch\af31505\loch\f195 pretty good \hich\af195\dbch\af31505\loch\f195 95% accuracy in predicting data.\hich\af195\dbch\af31505\loch\f195  \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid14304621 \par }\pard\plain \ltrpar\s1\ql \li0\ri0\sb480\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0\pararsid11871320 \rtlch\fcs1 \ab\af31503\afs32\alang1033 \ltrch\fcs0 \b\fs32\cf17\lang1033\langfe1033\loch\af31502\hich\af31502\dbch\af31501\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid11871320 \hich\af31502\dbch\af31501\loch\f31502 3. Prediction on test data\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8601528 \rtlch\fcs1 \af31507\afs24\alang1033 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8601528\charrsid3959272 \hich\af195\dbch\af31505\loch\f195 Using the final model trained in 2.3, we predict the class for the testing data. The result is stored in prediction.Rdata\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid8601528\charrsid8601528 \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8601528\charrsid14051899 \hich\af195\dbch\af31505\loch\f195 #prediction for testing data\par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid8601528\charrsid8601528 \hich\af195\dbch\af31505\loch\f195 >\hich\af195\dbch\af31505\loch\f195 prediction <- predict(finalFit,newdata=testing,type="class")}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8601528 \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8601528\charrsid8601528 \hich\af195\dbch\af31505\loch\f195 #save data\par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid8601528\charrsid8601528 \hich\af195\dbch\af31505\loch\f195 >}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\highlight16\insrsid8601528\charrsid8601528 \hich\af195\dbch\af31505\loch\f195 save(prediction,file='prediction.Rdata')}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid8601528 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid10623929 \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid7352820 \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid1067491 \par \hich\af195\dbch\af31505\loch\f195 The project is at }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid10623929 \hich\af195\dbch\af31505\loch\f195 Github repo}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid7882405 \hich\af195\dbch\af31505\loch\f195 :}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid10623929 \par }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid7882405 \hich\af195\dbch\af31505\loch\f195  \hich\af195\dbch\af31505\loch\f195 HYPERLINK \hich\af195\dbch\af31505\loch\f195 "}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid7882405\charrsid7882405 \hich\af195\dbch\af31505\loch\f195 https://github.com/cindyli2012/pmlproject}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid7882405 \hich\af195\dbch\af31505\loch\f195 "\hich\af195\dbch\af31505\loch\f195  }}{\fldrslt {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \cs16\f195\fs27\ul\cf19\insrsid7882405\charrsid1011084 \hich\af195\dbch\af31505\loch\f195 https://github.com/cindyli2012/pmlproject}}}\sectd \ltrsect\linex0\endnhere\sectlinegrid360\sectdefaultcl\sectrsid6369557\sftnbj {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid7882405 \par \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid10623929 \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid2323144 \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid7882405 \hich\af195\dbch\af31505\loch\f195 [\hich\af195\dbch\af31505\loch\f195 References\hich\af195\dbch\af31505\loch\f195 ]}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid2323144 \par }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid7882405 \hich\af195\dbch\af31505\loch\f195 [1] }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid2323144 \hich\af195\dbch\af31505\loch\f195 D\hich\af195\dbch\af31505\loch\f195 ata \hich\af195\dbch\af31505\loch\f195 source:}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid7882405 \hich\af195\dbch\af31505\loch\f195  }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f195\insrsid2323144 \hich\af195\dbch\af31505\loch\f195 HYPERLINK\hich\af195\dbch\af31505\loch\f195  "http://groupware.les.inf.puc-rio.br/har"}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f195\insrsid2323144 {\*\datafield 00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b5000000068007400740070003a002f002f00670072006f007500700077006100720065002e006c00650073002e0069006e0066002e007000750063002d00720069006f002e00620072002f006800610072000000}}}{\fldrslt {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf23\insrsid2323144 \hich\af195\dbch\af31505\loch\f195 http://groupware.les.inf.puc-rio.br/har}}}\sectd \ltrsect\linex0\endnhere\sectlinegrid360\sectdefaultcl\sectrsid6369557\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \f195\insrsid2323144 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3959272 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f195\insrsid682195 \hich\af195\dbch\af31505\loch\f195 [2}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid682195\charrsid3959272 \hich\af195\dbch\af31505\loch\f195 ] }{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid3959272\charrsid3959272 \hich\af195\dbch\af31505\loch\f195  \hich\af195\dbch\af31505\loch\f195 HYPERLINK "http://groupware.les.inf.puc-rio.br/collaborator.jsf?p1=evelloso"\hich\af195\dbch\af31505\loch\f195  }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid3959272\charrsid3959272 {\*\datafield 00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b8200000068007400740070003a002f002f00670072006f007500700077006100720065002e006c00650073002e0069006e0066002e007000750063002d00720069006f002e00620072002f0063006f006c006c00610062006f007200610074006f0072002e006a00730066003f00700031003d006500760065006c006c006f0073006f000000}}}{\fldrslt {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid3959272\charrsid3959272 \hich\af195\dbch\af31505\loch\f195 Velloso, E.}}}\sectd \ltrsect\linex0\endnhere\sectlinegrid360\sectdefaultcl\sectrsid6369557\sftnbj {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid3959272\charrsid3959272 \hich\af195\dbch\af31505\loch\f195 ; Bulling, A.; Gellersen, H.;}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid3959272\charrsid3959272 \~}{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid3959272\charrsid3959272 \hich\af195\dbch\af31505\loch\f195  \hich\af195\dbch\af31505\loch\f195 HYPERLINK "http://groupware.les.inf.puc-rio.br/collaborator.jsf?p1=ugulino"\hich\af195\dbch\af31505\loch\f195  }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid3959272\charrsid3959272 {\*\datafield 00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b8000000068007400740070003a002f002f00670072006f007500700077006100720065002e006c00650073002e0069006e0066002e007000750063002d00720069006f002e00620072002f0063006f006c006c00610062006f007200610074006f0072002e006a00730066003f00700031003d007500670075006c0069006e006f000000}}}{\fldrslt {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid3959272\charrsid3959272 \hich\af195\dbch\af31505\loch\f195 Ugulino, W.}}}\sectd \ltrsect\linex0\endnhere\sectlinegrid360\sectdefaultcl\sectrsid6369557\sftnbj {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid3959272\charrsid3959272 \hich\af195\dbch\af31505\loch\f195 ;}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid3959272\charrsid3959272 \~}{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid3959272\charrsid3959272 \hich\af195\dbch\af31505\loch\f195  \hich\af195\dbch\af31505\loch\f195 HYPERLINK "http://groupware.les.inf.puc-rio.br/collaborator.jsf?p1=hugo"\hich\af195\dbch\af31505\loch\f195  }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid3959272\charrsid3959272 {\*\datafield 00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b7a00000068007400740070003a002f002f00670072006f007500700077006100720065002e006c00650073002e0069006e0066002e007000750063002d00720069006f002e00620072002f0063006f006c006c00610062006f007200610074006f0072002e006a00730066003f00700031003d006800750067006f000000}}}{\fldrslt {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid3959272\charrsid3959272 \hich\af195\dbch\af31505\loch\f195 Fuks, H.}}}\sectd \ltrsect\linex0\endnhere\sectlinegrid360\sectdefaultcl\sectrsid6369557\sftnbj {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \cs22\f1\fs18\cf1\chshdng0\chcfpat0\chcbpat8\insrsid3959272 \~}{\field\fldedit{\*\fldinst {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \cs23\b\f1\cf1\insrsid3959272\charrsid3959272  HYPERLINK "http://groupware.les.inf.puc-rio.br/work.jsf?p1=11201" \\o "Qualitative Activity Recognition of Weight Lifting Exercises" }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \cs23\b\f1\cf1\insrsid3959272\charrsid3959272 {\*\datafield 10d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b6c00000068007400740070003a002f002f00670072006f007500700077006100720065002e006c00650073002e0069006e0066002e007000750063002d00720069006f002e00620072002f0077006f0072006b002e006a00730066003f00700031003d00310031003200300031000000}}}{\fldrslt {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \cs16\b\f1\ul\cf24\insrsid3959272\charrsid3959272 Qualitative Activity Recognition of Weight Lifting Exercises}}}\sectd \ltrsect\linex0\endnhere\sectlinegrid360\sectdefaultcl\sectrsid6369557\sftnbj {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\cf1\chshdng0\chcfpat0\chcbpat8\insrsid3959272\charrsid3959272 .}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\chshdng0\chcfpat0\chcbpat8\insrsid3959272  }{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid3959272\charrsid3959272 \hich\af195\dbch\af31505\loch\f195 Proceedings of 4th International Conference in Cooperation with SIGCHI (Augmented Human '13) . Stuttgart, Germany: ACM SIGCHI, 2013}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid3959272\charrsid3959272 .}{\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid3959272\charrsid3959272 \line }{\rtlch\fcs1 \af0 \ltrch\fcs0 \dbch\af0\insrsid3959272 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af195\afs27 \ltrch\fcs0 \f195\fs27\cf22\insrsid682195\charrsid7882405 \par }{\*\themedata 504b0304140006000800000021009be8704ffc0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb6ac3301045f785fe83d0b6d872ba28a5d8cea28f5d1f8bf40306796c8bd823214d42f2f71d3b2e941202856e04d2ccbdf7cca85c1fc641ed3126e7a9d2abbcd00ac9fac65157e9cfcd4b76af5562a006064f58e92326bdaeafafcacd316052a2a654e99e393c18936c8f23a4dc0724a9b43e8ec0728d9d0960b7d0a1b92d8a3b633d3112673c79e8ba7cc2167603abe7833c9f4844aed5e3a96f8aaa348430380b2ca066aa9ab3ba8843ba20dc53f38b2e5bc87251cee6a97721dd2c09efb29ae81a541f10f90d46e1302c43e2cff31548468bf965e633d1be6d9dc5c6dbdd28ebc867e3c5ec4f00abff89fece34f3dfd65f000000ffff0300504b030414000600080000002100a5d6a7e7c0000000360100000b0000005f72656c732f2e72656c73848fcf6ac3300c87ef85bd83d17d51d2c31825762fa590432fa37d00e1287f68221bdb1bebdb4fc7060abb0884a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725085b787086a37bdbb55fbc50d1a33ccd311ba548b63095120f88d94fbc52ae4264d1c910d24a45db3462247fa791715fd71f989e19e0364cd3f51652d73760ae8fa8c9ffb3c330cc9e4fc17faf2ce545046e37944c69e462a1a82fe353bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f7468656d652f7468656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b4b0d592c9c070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b4757e8d3f729e245eb2b260a0238fd010000ffff0300504b030414000600080000002100215aa28421070000db1d0000160000007468656d652f7468656d652f7468656d65312e786d6cec594f6f1b4514bf23f11d467b2fb113274da23a55ecd80db469a3d82dea71bc3bf64e33bbb39a1927f10db547242444411ca8c48d03022ab51297f269024550a47e05deccecae77e271939400153487d63bfb7b6fdefbbd3ff367af5c3d4a183a2042529e3683fa7bb5009134e4114d47cde076bf7b69354052e134c28ca7a4194c880cae6ebcfbce15bcae62921004f2a95cc7cd20562a5b5f5890210c63f91ecf480aef865c2458c1a3182d44021f82de842d2cd66a2b0b09a66980529c80da5bc3210d09ea6b95c146a1bcc3e03155520f844cf4b46ae248186cb45fd70839916d26d00166cd00e689f8619f1ca900312c15bc680635f3172c6c5c59c0ebb9105373642b725df397cbe502d1fea299538c06e5a4f56e63edf256a9df00989ac5753a9d76a75eea33001c86e0a9b5a5aab3d15dadb70a9d1590fd39abbb5d5bae355c7c45ffd28ccd6bad566b792db7c52a3520fbb331835fadad3436171dbc0159fcf20cbed1da6cb7571cbc0159fcca0cbe7b796da5e1e20d286634dd9f41eb8076bbb9f61232e46cdb0b5f05f86a2d874f51900d6576e929863c55f3722dc1f7b8e8024003195634456a9291210e218bdb98d181a07a02bc4e70e58d1d0ae5cc909e0bc950d04c35830f320c1531d5f7f2d9772f9f3d41c7f79f1edffff1f8c183e3fb3f58458ed4364e4755a917df7cfac7a38fd0ef4fbe7ef1f0733f5e56f1bf7cfff1cf3f7de60742f94ccd79fec5e35f9f3e7efee527bf7dfbd003df14785085f7694224ba490ed11e4fc031c38a6b391988f349f4634cab129be948e214eb593cfa3b2a76d0372798610fae455c06ef08681f3ee0b5f13dc7e05e2cc62a8fb7e3d9f53871803b9cb316175e16aeebb92a34f7c7e9c83fb91857717b181ff8e66ee3d4896f679c41dfa43e95ed983866ee329c2a3c22295148bfe3fb8478f8ba4ba9c3eb0e0d05977ca8d05d8a5a987a29e9d381934d53a16d9a405c263e0321de0e373b77508b339fd75be4c045425560e631be4f9843e3353c5638f1a9ece3845509bf8155ec33b237116115d7910a223d228ca34e44a4f4c9dc12e06f25e8d7a175f8c3bec326898b148aeefb74dec09c57915b7cbf1de324f3617b348dabd8f7e53ea42846bb5cf9e03bdcad10fd0c71c0e9dc70dfa1c409f7e9dde0361d39264d1344bf190b4f2caf11eee46f6fc286989856034ddde9d5094d5fd5b813e8dbb9e317d7b8a1553effea91c7ee37b5656f0209be9ad93ed1a8e7e14eb6e73617117df3bbf3161ea7bb040a6276897adb9cdf36e7e03fdf9ce7d5f3c5b7e469178606adb74c76a36db6ddc9dc5df79032d65313466e48b3f196b0f6445d18d472e6c449ca535816c34f5dc93081831b096c6490e0ea43aae25e8c33d8b4d703ad642473d52389322ee1b06886bdba351e36feca1e3597f521c4760e89d50e8fecf0921e2ece1aa51a63d5c81c688b8996b482b34eb67439570abebdce64756dd49967ab1bd34c5374662b5dd6149b4339505eba0683259bb0a941b015029657e0ccafa786c30e6624d2bcdb1815613151f87b42947b6d1d8971446c889ce10a9b7513bb228566fcd3eed91c391f9b256b40dae94698b4989f3f6724b950302519044f56134babb5c55274d80cd69617970314e2ac190ce1980b3f930c8226f53610b311dc15854ad8ac3db5164d914e3d5ef367551d6e2ee6148c53c699906a0bcbd8c6d0bcca43c5523d93b57f71b9a193ed621cf03493b359b1b40a29f2af5901a176434b864312aa6ab02b239a3bfb9877423e5644f4e2e8100dd858ec61083f70aafd89a884db0a53d0fa01aed634dbe695db5bf34e53bdd032383b8e5916e3bc5beaab99a2e22cdcf493d206f354310f7cf3da6e9c3bbf2bbae22fca956a1affcf5cd1cb015c1e2c453a0221dcec0a8c74a534032e54cca10b65310dbb02d67dd33b205be07a165e03f970bf6cfe17e440ff6f6bceea30650d6740b547474850584e542c08d985b664b2ef1465f57ce9b12a59aec86454c55c9959b307e480b0beee812bba070728865437dd246f03067732ffdce7bc820623bd47a9d69bd3c9caa5d3d6c03fbd71b1c50c4e9dd84be8fc2df82f4d2c57f7e9ea67e58d78b146561dd12fa6bba4465115cee2b7b6964ff59a269c6501aeacb5b663cd78bcb85c1807519cf51806cbfd4c06574048ff03eb1f1521b31f2bf482dae77bd05b117c7bb0fc21c8ea4bbaab4106e906697f0d60df63076d32695596da7ce7a3592b16eb0bdea896f39e205b5b7696789f93ec7213e54ee7d4e245929d33ec706dc7e6520d913d59a230342cce212630e62b57f543141fdc83406fc195ff98d94f533283275307d9ae30d935e0d124ffc9a45d706dd6e9338c46b2748f0c118d8e8af347c9842d21fb79a4d8221bb416d389560a2ef90e0dae608ed7a276b52c85174f172e25ccccd0b24b617397e653001fc7f2c6ad8f7680b74dd67aad8bab608aa57f85b23318efa7cc7bf2392b65f6a0f8ca40bd0665eae8d594e54c0179b389079f370586a357cff45f58746ca69b94ddf8130000ffff0300504b0304140006000800000021000dd1909fb60000001b010000270000007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f78277086f6fd3ba109126dd88d0add40384e4350d363f2451eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89d93b64b060828e6f37ed1567914b284d262452282e3198720e274a939cd08a54f980ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd5001996509affb3fd381a89672f1f165dfe514173d9850528a2c6cce0239baa4c04ca5bbabac4df000000ffff0300504b01022d00140006000800000021009be8704ffc0000001c0200001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6a7e7c0000000360100000b000000000000000000000000002d0100005f72656c732f2e72656c73504b01022d00140006000800000021006b799616830000008a0000001c00000000000000000000000000160200007468656d652f7468656d652f7468656d654d616e616765722e786d6c504b01022d0014000600080000002100215aa28421070000db1d00001600000000000000000000000000d30200007468656d652f7468656d652f7468656d65312e786d6c504b01022d00140006000800000021000dd1909fb60000001b0100002700000000000000000000000000280a00007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d010000230b00000000}{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d61696e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}{\*\latentstyles\lsdstimax276\lsdlockeddef0\lsdsemihiddendef1\lsdunhideuseddef1\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority0 \lsdlocked0 Normal;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 1;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 2;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 3;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 4;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;\lsdpriority39 \lsdlocked0 toc 1;\lsdpriority39 \lsdlocked0 toc 2;\lsdpriority39 \lsdlocked0 toc 3;\lsdpriority39 \lsdlocked0 toc 4;\lsdpriority39 \lsdlocked0 toc 5;\lsdpriority39 \lsdlocked0 toc 6;\lsdpriority39 \lsdlocked0 toc 7;\lsdpriority39 \lsdlocked0 toc 8;\lsdpriority39 \lsdlocked0 toc 9;\lsdqformat1 \lsdpriority35 \lsdlocked0 caption;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority10 \lsdlocked0 Title;\lsdpriority1 \lsdlocked0 Default Paragraph Font;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority11 \lsdlocked0 Subtitle;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority22 \lsdlocked0 Strong;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority20 \lsdlocked0 Emphasis;\lsdsemihidden0 \lsdunhideused0 \lsdpriority59 \lsdlocked0 Table Grid;\lsdunhideused0 \lsdlocked0 Placeholder Text;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 1;\lsdunhideused0 \lsdlocked0 Revision;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority34 \lsdlocked0 List Paragraph;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority29 \lsdlocked0 Quote;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority30 \lsdlocked0 Intense Quote;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority19 \lsdlocked0 Subtle Emphasis;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority21 \lsdlocked0 Intense Emphasis;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority31 \lsdlocked0 Subtle Reference;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority32 \lsdlocked0 Intense Reference;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority33 \lsdlocked0 Book Title;\lsdpriority37 \lsdlocked0 Bibliography;\lsdqformat1 \lsdpriority39 \lsdlocked0 TOC Heading;}}{\*\datastore 010001000200000008000000556e6b6e6f776e00000000000000000000060000d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff090006000000000000000000000001000000010000000000000000100000feffffff00000000feffffff0000000000000000fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff5200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e5000000000000000000000000985ec3fae9d5cf01feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000100010000000000}}
